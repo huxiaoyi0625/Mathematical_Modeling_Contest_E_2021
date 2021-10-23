@@ -1,0 +1,2 @@
+# Mathematical_Modeling_Contest_E_2021
+中国研究生数学建模大赛2021赛题E的个人代码（已包含赛题与赛题数据）
