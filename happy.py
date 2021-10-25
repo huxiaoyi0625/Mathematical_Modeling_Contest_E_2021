@@ -1,1 +1,0 @@
-print('today happy, go to drink.')
